@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alexz
+# 👋 ¡Hola! Soy Alex
 
 🎓 **Estudiante de Ingeniería Informática en la Salle URL**  
 💻 **Apasionado por la programación y la tecnología**  
