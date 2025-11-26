@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alexz
 
-<!--
-**AlexGaDu/AlexGaDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería Informática en la Salle URL**  
+💻 **Apasionado por la programación y la tecnología**  
+🚀 Siempre aprendiendo y mejorando mis habilidades
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy estudiante de Ingeniería Informática con un gran interés en el desarrollo de software y la resolución de problemas mediante la programación. Me gusta aprender nuevas tecnologías, entender cómo funcionan las cosas por dentro y aplicar ese conocimiento en proyectos prácticos.
+
+Actualmente me encuentro en constante formación, explorando distintas áreas de la informática como el desarrollo backend, frontend y la programación orientada a objetos.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:**  
+  `Python` · `Java` · `C/C++` · `Java`
+
+- **Herramientas y tecnologías:**  
+  `Git & GitHub` · `Linux` · `VS Code` · `SQL`  · `IntelliJ`
